@@ -87,7 +87,7 @@ My goal: Create **efficient, real-world automation** powered by the latest AI to
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed_Malik&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Ahmed_Malik&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed_Malik&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%"/>
 </div>
 
