@@ -91,15 +91,15 @@ My goal: Create **efficient, real-world automation** powered by the latest AI to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed_Malik&theme=dracula&hide_border=true" alt="Contribution Streak" width="48%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed_Malik&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" width="65%"/>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed_Malik&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" width="65%"/> -->
 </div>
 
 <br/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ahmed_Malik&theme=dracula&no-frame=true&margin-w=15&column=7" alt="Profile Trophies"/>
-</div>
+</div> -->
 
 <br/>
 
