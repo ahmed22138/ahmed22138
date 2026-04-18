@@ -37,8 +37,7 @@ My goal: Create **efficient, real-world automation** powered by the latest AI to
 <br/>
 
 ### 🔭 What I Build & Focus On
-- 🤖 **Agentic AI Development** — multi-agent systems, reasoning, tool-use, memory & planning  
-- 🔌 **MCP (Model Context Protocol)** — connecting AI agents to external tools, data & systems securely  
+.
 - 📋 **Spec-Driven Development** — using Spec Kit + structured specs to guide AI coding agents  
 - ⚡ **AI-Powered Workflows** — Claude Code, OpenAI Agents SDK for 10× faster & better development  
 - 🌐 **Full-Stack Applications** — reactive UIs + scalable backends + modern databases  
