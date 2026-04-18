@@ -8,7 +8,7 @@
   Agentic AI | Full-Stack | Scalable Systems
 -->
 
-<<!-- 
+<!-- 
   Ahmed_Malik's GitHub Profile – March 2026
   Agentic AI | Full-Stack | Cloud-Native & Scalable Systems
 -->
