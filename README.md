@@ -13,9 +13,9 @@
   Agentic AI | Full-Stack | Cloud-Native & Scalable Systems
 -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4500&pause=700&color=00E0FF&center=true&vCenter=true&width=750&height=80&lines=Hey!+I'm+Ahmed+Malik;Agentic+AI+%26+Full-Stack+Developer;Autonomous+Agents+%7C+Scalable+Web+Apps;Next.js+%7C+FastAPI+%7C+Kubernetes+%7C+MCP+%7C+Spec-Driven" alt="Typing SVG" />
-</div>
+</div> -->
 
 <br/>
 
