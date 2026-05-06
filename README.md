@@ -21,7 +21,6 @@
 
 <div align="center">
   <a href="https://github.com/Ahmed_Malik"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://twitter.com/your_twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/ahmed-malik-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <!-- Add portfolio, blog, email if you have -->
 </div>
@@ -41,7 +40,6 @@ My goal: Create **efficient, real-world automation** powered by the latest AI to
 - 📋 **Spec-Driven Development** — using Spec Kit + structured specs to guide AI coding agents  
 - ⚡ **AI-Powered Workflows** — Claude Code, OpenAI Agents SDK for 10× faster & better development  
 - 🌐 **Full-Stack Applications** — reactive UIs + scalable backends + modern databases  
-- ☸️ **Cloud-Native Deployments** — containerized apps with Docker & Kubernetes orchestration  
 
 <br/>
 
